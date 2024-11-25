@@ -1,0 +1,1 @@
+ALTER TABLE "two_factor_confirmations" ALTER COLUMN "user_id" SET DATA TYPE uuid;

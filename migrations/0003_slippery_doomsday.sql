@@ -1,0 +1,1 @@
+ALTER TABLE "verification-token" ALTER COLUMN "expires" SET DATA TYPE timestamp;

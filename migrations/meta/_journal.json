@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1732359152145,
+      "tag": "0000_chunky_nightshade",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1732371708320,
+      "tag": "0001_stale_the_twelve",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1732390882775,
+      "tag": "0002_grey_owl",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1732392185920,
+      "tag": "0003_slippery_doomsday",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1732394844335,
+      "tag": "0004_easy_master_mold",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1732397119203,
+      "tag": "0005_petite_lifeguard",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1732424791926,
+      "tag": "0006_ambiguous_barracuda",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1732424924355,
+      "tag": "0007_lying_blink",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1732445776097,
+      "tag": "0008_wakeful_nico_minoru",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1732450233395,
+      "tag": "0009_striped_maddog",
+      "breakpoints": true
+    }
+  ]
+}
