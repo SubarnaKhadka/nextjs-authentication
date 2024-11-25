@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { withRefreshAuth } from "@/lib/jwtRefreshProtected";
 import { NextRequest, NextResponse } from "next/server";
